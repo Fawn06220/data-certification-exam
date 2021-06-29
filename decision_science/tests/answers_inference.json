@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "It has a negative impact because \"t\" is positive\n\n",
+    "T_STAT": "The t statistic is the coefficient divided by its standard error\n\n",
+    "P_VALUE": "\nThis means that there is a 12.8% chance of finding a difference as large as the one in your study given that the null hypothesis is true\nYes it's significant at the 95% confidence level",
+    "INCREASE": "\nThe total number of incidents decrease (when the share of families with a married couple increases by \n1 percentage point in the district) by 0.004\n",
+    "LIMITATIONS": "\nIf you include a different form of the same variable for both the dependent variable and an independent variable, \nyou obtain an artificially inflated R-squared. This is the case for PERC_COLLEGE_GRADUATES','PERC_LESS_THAN_HIGH_SCHOOL'\n"
+}
